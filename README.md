@@ -1,6 +1,8 @@
 # Shopping-Cart-Spring-MVC-Hibernate-Application
 A shopping cart spring-mvc application with hibernate. Application sends user email confirmation on registration and it also gives user to generate their final bill as a PDF with PDF-View.
 
+
+hello user!!
 ### 1. The home page of the project is as follows:
 ![](images/pro1.PNG?raw=true)
 
